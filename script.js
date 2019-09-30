@@ -16,7 +16,7 @@ function persistence(num) {
         let spl = arr(num);
         let res = mult(spl);
         persistence(res);
-        }
-    return count;
+        return count;
     }
-console.log(persistence(1224));
+}
+console.log(persistence(4444));
