@@ -585,7 +585,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="ignore_missing_gitignore" value="true" />
-    <property name="javascript.nodejs.core.library.configured.version" value="10.15.2" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.16.3" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -645,9 +645,14 @@
       <workItem from="1569589319498" duration="4338000" />
       <workItem from="1569594238410" duration="1009000" />
       <workItem from="1569683679055" duration="1443000" />
+<<<<<<< HEAD
       <workItem from="1569685140011" duration="5056000" />
       <workItem from="1576518511877" duration="5944000" />
       <workItem from="1580933350286" duration="6318000" />
+=======
+      <workItem from="1569685140011" duration="4967000" />
+      <workItem from="1569844957782" duration="124000" />
+>>>>>>> origin/master
     </task>
     <servers />
   </component>
